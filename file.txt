@@ -116,6 +116,23 @@ git checkout переміщує head на бажаний коміт
 коли HEAD вказує на коміт а не на вітку master то він перебуває в стані detached head
 
 
+                                    гілки в гіт
+гілка - силка на деякий коміт
+
+git checkout feature1 переміщення по гілках
+
+git branch <branch name> створення гілки 
+
+git checkout <branch name> перехід до гілки
+
+git checkout -b <name> створення і перехід до гілки 
+
+git branch показує усі гілки 
+
+git branch -m <new branch > перейменування гілки
+
+git branch -d <branch name> видалення гілки
+
 
 
 
