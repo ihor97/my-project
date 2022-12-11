@@ -109,6 +109,12 @@ git log -історія змін показує всі коміти
 git checkout <commit hash> перехід до певного коміту і переміщення head 
 git checkout <branch name> перехід до гілки
 
+cd ../..
+
+git checkout переміщує head на бажаний коміт
+
+коли HEAD вказує на коміт а не на вітку master то він перебуває в стані detached head
+
 
 
 
