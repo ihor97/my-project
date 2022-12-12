@@ -1,0 +1,3 @@
+Feature text file
+
+this file was modefied in feature branch
